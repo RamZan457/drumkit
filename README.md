@@ -1,4 +1,6 @@
-# drumkit457
+# Drum Kit
 
+# HTML, CSS, and JavaScript languages make this game.
 
-# by Mohammad Ramzan
+# Ⓒ Mohammad Ramzan
+
